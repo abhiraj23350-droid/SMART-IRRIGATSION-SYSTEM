@@ -1,6 +1,6 @@
 # SMART-IRRIGATSION-SYSTEM
 🌱 SMART IRRIGATION SYSTEM USING ARDUINO
-#🔹 Project Title
+# 🔹 Project Title
 
 Automatic Smart Irrigation System Using Arduino and Soil Moisture Sensor
 
@@ -20,7 +20,7 @@ Plants may be over-watered or under-watered
 
 This system solves the problem by automatically turning ON/OFF the water pump based on soil moisture.
 
-#🔹 Components Required
+# 🔹 Components Required
 
 Arduino UNO – Main controller
 
@@ -36,7 +36,7 @@ Jumper Wires – For wiring
 
 External Power Supply – For water pump
 
-#🔹 Working Principle
+# 🔹 Working Principle
 
 Soil moisture sensor gives analog value to Arduino
 
@@ -54,7 +54,7 @@ Arduino IDE
 
 Programming Language: Embedded C / Arduino C
 
-#🔹 Algorithm (Step-by-Step)
+# 🔹 Algorithm (Step-by-Step)
 
 Start the system
 
@@ -68,23 +68,24 @@ If soil is wet → Pump OFF
 
 Repeat continuously
 
-#🔹 Applications
+# 🔹 Applications
 
 Home gardening
 
 Agriculture fields
 
 Greenhouses
-#DEVELOPED BY :- ABHI RAJ
 
 Smart farming systems
 
 Water-saving irrigation
 
-🔹 Advantages
+# 🔹 Advantages
 
 ✔️ Saves water
 ✔️ Automatic operation
 ✔️ Low cost
 ✔️ Easy to use
 ✔️ Reduces human effort
+
+#  DEVELOPED BY :- ABHI RAJ
